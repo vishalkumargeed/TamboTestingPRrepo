@@ -1,2 +1,6 @@
 template/node_modules
 template/.next
+
+template/nextjstemplate/node_modules
+template/nextjstemplate/.next
+template/nextjstemplate/.env.*
