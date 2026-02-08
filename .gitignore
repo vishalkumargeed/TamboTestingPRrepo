@@ -1,2 +1,4 @@
 template/node_modules
 template/.next
+template/testapp/.next
+template/testapp/node_modules
