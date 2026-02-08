@@ -16,12 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# screenshot 
-![alt text](<download (11).jpg>)
-
-# video link 
-https://youtu.be/Hu0ZrBRNglo?list=RDNZAi6QTNZtE
-
 
 ## Learn More
 
