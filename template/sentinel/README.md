@@ -5,6 +5,7 @@ Tambo Sentinel is an AI-powered agent designed to assist maintainers by automati
 ---
 
 ## 📸 Preview
+![alt text](<download (11).jpg>)
 
 ### Screenshot
 ![Tambo Sentinel Dashboard](https://via.placeholder.com/800x450?text=App+Running+with+Tambo+UI+Visible)
