@@ -1,2 +1,5 @@
 template/node_modules
 template/.next
+
+template/sentinel/node_modules
+template/sentinel/.next
